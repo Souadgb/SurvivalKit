@@ -1,50 +1,39 @@
-# Welcome to your Expo app 👋
+# SurvivalKit
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![SurvivalKit App Preview](./AMC-2025/assets/images/project-2.png)
 
-## Get started
+---
 
-1. Install dependencies
+## FR — À propos
 
-   ```bash
-   npm install
-   ```
+**SurvivalKit** est une application iOS développée lors d’un hackathon.  
+Elle utilise **React Native**,**TypeScript**, la **géolocalisation** et l’**intelligence artificielle** pour fournir des **recommandations utiles en situation d’urgence**.
 
-2. Start the app
+L’application propose une carte interactive permettant d’identifier des points essentiels tels que des abris, des ressources vitales et des zones à risque, ainsi qu’un assistant intelligent pour guider l’utilisateur dans ses décisions.
 
-   ```bash
-   npx expo start
-   ```
+### Technologies
+- React Native  
+- Expo  
+- TypeScript  
+- Géolocalisation  
+- API d’IA  
+- iOS  
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## ENG — About
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+**SurvivalKit** is an iOS application developed during a hackathon.  
+It uses **React Native**,**TypeScript**, **geolocation**, and **artificial intelligence** to provide **relevant recommendations in emergency situations**.
 
-## Get a fresh project
+The app features an interactive map highlighting essential locations and an AI-powered assistant designed to help users make informed decisions under pressure.
 
-When you're ready, run:
+### Technologies
+- React Native  
+- Expo  
+- TypeScript  
+- Geolocation  
+- AI API  
+- iOS  
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
